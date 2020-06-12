@@ -5,7 +5,7 @@ Here you can find the implementation of Document representation, Document simila
 1. TF-IDF
 2. Word Embedding
 
-# Document similarity
+#Document similarity
 1. cosine_similarity
 
 #Clustering
