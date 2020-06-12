@@ -1,9 +1,12 @@
 # MSC_Project
-Here you can find two approaches to represent the Document, Document similarity calculation and two approaches to Cluster the Document Vector.  
+Here you can find the implementation of Document representation, Document similarity calculation and Document Clustering for Tamil documents.   
 
 #Document Representation Techniques 
 1. TF-IDF
 2. Word Embedding
+
+# Document similarity
+1. cosine_similarity
 
 #Clustering
 1. One Pass Algorithm 
